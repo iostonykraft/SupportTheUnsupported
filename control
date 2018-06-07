@@ -1,0 +1,10 @@
+Package: com.tonykraft.supporttheunsupported
+Name: SupportTheUnsupported
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Allows iPhones to use “unsupported” accessories
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.supporttheunsupported.html
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Author: Tony Kraft <iostonykraft@gmail.com>
+Section: Tweaks
